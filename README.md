@@ -1,4 +1,4 @@
-# python
+# mini_ calculadora em python
 
 valor1 =int(input("Digite o valor do primeiro número :"))
 valor2 = int(input('Digite o valor do segundo :')) 
